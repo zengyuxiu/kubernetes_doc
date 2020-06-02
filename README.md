@@ -1,5 +1,5 @@
 # kubernetes_doc_zh
-base on  [Kubernetes Documentation](https://kubernetes.io/docs/home/)
+based on  [Kubernetes Documentation](https://kubernetes.io/docs/home/)
 ### Workloads 
       by Yuxiu Zeng from NUAA
 ### Containers
